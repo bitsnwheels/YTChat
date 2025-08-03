@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-openai
+faiss-cpu
+tiktoken
+youtube-transcript-api
+langdetect
+deep-translator
+Flask
+gunicorn
